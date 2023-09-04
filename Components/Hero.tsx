@@ -27,6 +27,7 @@ function Hero() {
                 )}
             </div>
         </div>
+
     )
 }
 
